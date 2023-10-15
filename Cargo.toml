@@ -1,0 +1,11 @@
+[package]
+name = "bin2bcd"
+version = "0.0.1"
+authors = ["Dariusz Depta <wisbery@users.noreply.github.com>"]
+description = "Binary-BCD-Binary conversion using double-dabble algorithm"
+documentation = "https://docs.rs/bin2bcd"
+repository = "https://github.com/wisbery/double-dabble.git"
+keywords = ["bcd", "double", "dabble"]
+categories = ["command-line-utilities"]
+license = "MIT OR Apache-2.0"
+edition = "2021"
